@@ -1,0 +1,24 @@
+# ninja log v5
+6	2078	1648399588583381613	CMakeFiles/image_processor.dir/Writing_and_reading/Writer.cpp.o	d516e8abc95ee9c1
+1	162	1648473049540466431	build.ninja	d32c5b29690f2c5c
+5	1548	1648399588056430004	CMakeFiles/image_processor.dir/Image/Image.cpp.o	d1645ebbec78c332
+6	2150	1648399588661861113	CMakeFiles/image_processor.dir/Writing_and_reading/Reader.cpp.o	811de0ae8201a250
+5	527	1648399587042464710	CMakeFiles/image_processor.dir/Image/Color.cpp.o	35a6b3d23ce8d733
+7	446	1648399586952124390	CMakeFiles/image_processor.dir/test.cpp.o	d06d1eab1d2e7488
+4	1744	1648399588252375816	CMakeFiles/image_processor.dir/Parsing/argument_parser.cpp.o	65667b389af3cdbe
+8	1345	1648402036367261302	CMakeFiles/image_processor.dir/image_processor.cpp.o	372485619fc7e339
+10	1351	1648402036378530230	CMakeFiles/image_processor.dir/Image/Filters.cpp.o	ce46e4cc402f2b71
+1352	1474	1648402036504305345	image_processor	34108110a80956be
+3	233	1648473074883389900	CMakeFiles/image_processor.dir/Image/Color.cpp.o	78159093797413ed
+3	1619	1648473076264390907	CMakeFiles/image_processor.dir/Image/Image.cpp.o	a1cc24cf06af180d
+2	1846	1648473076484762757	CMakeFiles/image_processor.dir/Parsing/argument_parser.cpp.o	ab5a2b8d9a9ab425
+4	2328	1648473076967494662	CMakeFiles/image_processor.dir/Writing_and_reading/Writer.cpp.o	c4e0cae98bf87b58
+4	2369	1648473077009197516	CMakeFiles/image_processor.dir/Image/Filters.cpp.o	ab9499c0c4ba73bc
+2	2383	1648473077024304607	CMakeFiles/image_processor.dir/image_processor.cpp.o	40255a76ca68f1b9
+3	2402	1648473077043231641	CMakeFiles/image_processor.dir/Writing_and_reading/Reader.cpp.o	82765005680f46b6
+5	8943	1648473083556238739	CMakeFiles/image_processor.dir/test.cpp.o	3b667f198b0cd81e
+3	58	1648473093633120526	CMakeFiles/image_processor.dir/image_processor.cpp.o	40255a76ca68f1b9
+58	255	1648473093815014211	image_processor	34108110a80956be
+2	57	1648473104742205118	CMakeFiles/image_processor.dir/test.cpp.o	3b667f198b0cd81e
+2	1118	1648473105797283665	CMakeFiles/image_processor.dir/image_processor.cpp.o	40255a76ca68f1b9
+1118	1220	1648473105901063731	image_processor	34108110a80956be
